@@ -1,0 +1,21 @@
+{
+  "criteria_weights": {
+    "property_type": 0.1,
+    "bedrooms": 0.05,
+    "bathrooms": 0.05,
+    "size": 0.2,
+    "recency": 0.5,
+    "status": 0.1
+  },
+  "time_scores": {
+    "three_months": 1.0,
+    "six_months": 0.5,
+    "nine_months": 0.25
+  },
+  "status_scores": {
+    "sold": 1.0,
+    "pending": 0.6,
+    "active": 0.4
+  },
+  "min_sales_count": 3
+}

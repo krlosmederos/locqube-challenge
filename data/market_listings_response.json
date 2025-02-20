@@ -1,0 +1,1743 @@
+[
+  {
+    "id": "24074410",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24074410",
+    "address": {
+      "deliveryLine": "9 Thorncrest Ridge Unit Lot #52",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06810",
+      "street": "9 Thorncrest Ridge Unit Lot #52"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coListingAgent": {
+      "id": "849457",
+      "name": "Noelle Spallone",
+      "email": "nspallone@tollbrothers.com",
+      "phone": "203-343-6524"
+    },
+    "coListingOffice": {
+      "id": "TOLB01",
+      "name": "Thomas Jacovino"
+    },
+    "coordinates": {
+      "latitude": 41.378204,
+      "longitude": -73.471196
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 5,
+    "daysOnMarket": 2,
+    "description": "Welcome to 9 Thorncrest Ridge-a stunning 4-bedroom home that blends comfort and style within an open-concept floor plan. Upon entry, you'll be greeted by an elegant foyer with a tray ceiling that sets the tone for the bright and spacious living areas. The main floor features a versatile design, including an additional bedroom (formerly a flex room), a welcoming great room, a formal dining room, and a casual dining area perfect for entertaining. The well-appointed kitchen boasts ample counter and cabinet space along with a large center island. The first-floor primary suite provides a generous walk-in closet and a luxurious private bath complete with dual vanities, a spacious shower with a seat, and a private water closet. Upstairs, you'll find one more bedroom-one adjacent to a roomy loft and another two bedrooms conveniently located on the first floor off the foyer with a shared hall bath. Additional highlights include a convenient everyday entry, easily accessible laundry, and a finished walkout basement that adds extra living and entertainment space.",
+    "imageCount": 4,
+    "lastUpdated": 1739904462,
+    "listPrice": 1088995,
+    "listingAgent": {
+      "id": "CHAPMASH",
+      "name": "Shannon Chapman",
+      "email": "schapman@tollbrothers.com",
+      "phone": "860-754-4601"
+    },
+    "listingDate": 1739404800,
+    "listingOffice": {
+      "id": "TOLB01",
+      "name": "Thomas Jacovino"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 2178,
+      "acres": 0.05
+    },
+    "modifiedDate": 1739577600,
+    "newConstruction": true,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "high": "Per Board of Ed"
+    },
+    "size": 3659,
+    "status": "Under Contract",
+    "style": "{Colonial}",
+    "subdivision": "Regency at Rivington",
+    "yearBuilt": 2025,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24074410/photo_1.jpg"
+    ],
+    "attributionContact": "(860) 754-4601",
+    "additionalListingDesc": "To be built home- five floorplans to select from with options available for personalization.",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Underground Utilities,Sidewalk,Porch,Deck,Underground Sprinkler}",
+    "garageFeatures": "{Attached Garage,Driveway,Paved}",
+    "heating": "{Hot Air}",
+    "associationFee": 340,
+    "interiorFeatures": "{Auto Garage Door Opener,Open Floor Plan,Security System}",
+    "lotFeatures": "{In Subdivision,Professionally Landscaped}",
+    "parkingFeatures": "{Attached Garage,Driveway,Paved}",
+    "pool": "{In Ground Pool}",
+    "propertyDesc": "{Adult Community 55}",
+    "roof": "{Asphalt Shingle}",
+    "photosChangeTimestamp": 1739404800,
+    "poolYN": true,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1739577600,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24054834",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24054834",
+    "address": {
+      "deliveryLine": "3 Boyce Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "3 Boyce Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coListingOffice": {
+      "id": "4920",
+      "name": "Finish Line Realty"
+    },
+    "coordinates": {
+      "latitude": 41.411488,
+      "longitude": -73.500657
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 102,
+    "daysOnMarket": 102,
+    "description": "The work has been done, just move in! Spectacular recent interior renovation by Leigh Overland Architects with Interior design by Lisa Mason of Inspirations For Your Home, LLC. Must see to appreciate the perfect flow of this home and the tasteful improvements. Quality materials including Anderson windows, granite, hardwoods, tile, custom cabinets. Gleaming newer hardwood flooring almost everywhere. All new kitchen with large center island, wide open to large dining room with sunny bay window, and the cozy living room with fireplace and beams. Three remodeled tiled full bathrooms with (HEATED!) tile floors, and a convenient half bath in lower level that could be changed to a full if needed because there is ample space in lower level for all kinds of ideas. Stunning large sunroom addition about 6 years ago with tiled floor and glass roof. Pretty & private yard with fenced gardens and natural stone walls, unobstructed wooded views, and wonderful bird watching. Walk-out lower level features lots of windows & custom sliders to back patio; in-law, office and/or gym space potential. Separate lower level / basement workshop area with it's own door to back yard. Oversized 2-car garage with huge attic above it via pull-down stairs. Walking distance to lovely West Lake Reservoir, around 7 minutes to shopping & dining on popular Mill Plain Rd. Well maintained home. Not on market for over 40 years, only 2 owners ever, no expense spared, rare opportunity, don't miss this home!",
+    "imageCount": 39,
+    "lastUpdated": 1739904462,
+    "listPrice": 748888,
+    "listingAgent": {
+      "id": "14730",
+      "name": "Sarah Becker",
+      "email": "sarahbeckerrealty@gmail.com",
+      "phone": "203-733-5999"
+    },
+    "listingDate": 1731024000,
+    "listingOffice": {
+      "id": "4920",
+      "name": "Finish Line Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 49658,
+      "acres": 1.14
+    },
+    "modifiedDate": 1738281600,
+    "previousPriceDate": 1731048543,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Rogers Park",
+      "high": "Danbury"
+    },
+    "size": 3672,
+    "status": "Active",
+    "stdAddress": {
+      "deliveryLine": "3 Boyce Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "3 Boyce Rd"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1978,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24054834/photo_1.jpg"
+    ],
+    "previousListPrice": 738800,
+    "priceChangeTimestamp": 1731048543,
+    "attributionContact": "(203) 733-5999",
+    "additionalListingDesc": "Don't miss the HEATED BATHROOM FLOORS! What a lovely feature in the winter and all chilly mornings! Also: Popcorn ceilings removed, recessed lights, closets & window seats added. Note: Road recently repaved by the town, brand new drains just installed along the road, gorgeous!",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Porch-Enclosed,Porch,Deck,Covered Deck,Stone Wall}",
+    "buyerFinancing": "{FHA,VA,CHFA,USDA}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Water}",
+    "interiorFeatures": "{Auto Garage Door Opener,Cable - Pre-wired,Open Floor Plan}",
+    "lotFeatures": "{Level Lot,Cleared}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Walk to Water}",
+    "photosChangeTimestamp": 1738281600,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1738195200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24001582",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24001582",
+    "address": {
+      "deliveryLine": "4 Apple Orchard Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "4 Apple Orchard Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.441375,
+      "longitude": -73.430889
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 104,
+    "daysOnMarket": 30,
+    "description": "Gracious Colonial offers 4 bedrooms and 3.5 bathrooms. Great floor plan. Wonderful for entertaining. Welcoming open foyer. Updated kitchen with Quartzite countertops. Nice island and big window bring in lots of natural light. Kitchen opens to fabulous family room with vaulted ceilings and wood burning fireplace. Formal dining room and living room. Upstairs is a grand master suite with beautifully updated bathroom. Large walk in closet. Additional 3 bedrooms and full bath complete the upstairs. Spacious lower level playroom with full bath and loads of storage. Large deck off kitchen overlooks level back yard. Above ground swimming pool and hot tub your your outdoor living. Beautifully landscaped. Invisible dog fence. Newer Seer 16 Central air system. Newer roof 2021. 2 car garage. Excellent location. Close to Shopping and I-84. Lovely home.",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 725000,
+    "listingAgent": {
+      "id": "JBORN1",
+      "name": "Marie Borner",
+      "email": "marieborner17@gmail.com",
+      "phone": "203-733-4188"
+    },
+    "listingDate": 1709596800,
+    "listingOffice": {
+      "id": "CBRB120",
+      "name": "Coldwell Banker Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 34412,
+      "acres": 0.79
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1718582400,
+    "salePrice": 710500,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "TEJADAS",
+      "name": "Sinthia Tejada",
+      "email": "sinthiatejada@gmail.com",
+      "phone": "917-376-9485"
+    },
+    "sellingOffice": {
+      "id": "CRRE01",
+      "name": "Charmed Realty"
+    },
+    "size": 3764,
+    "status": "Closed",
+    "style": "{Colonial}",
+    "yearBuilt": 1991,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24001582/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 733-4188",
+    "additionalListingDesc": "Professional photo's coming Friday. Seller need time to find suitable housing",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Underground Utilities,Shed,Porch,Deck,Hot Tub}",
+    "garageFeatures": "{Attached Garage,Paved,Driveway}",
+    "heating": "{Hot Water}",
+    "interiorFeatures": "{Auto Garage Door Opener}",
+    "lotFeatures": "{Level Lot}",
+    "parkingFeatures": "{Attached Garage,Paved,Driveway}",
+    "pool": "{Above Ground Pool}",
+    "roof": "{Asphalt Shingle}",
+    "photosChangeTimestamp": 1710028800,
+    "poolYN": true,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1718582400,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24009380",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24009380",
+    "address": {
+      "deliveryLine": "26 Tiffany Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "26 Tiffany Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.4046,
+      "longitude": -73.528874
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 68,
+    "daysOnMarket": 7,
+    "description": "Welcome to 26 Tiffany Drive, a classic New England Colonial located on a desirable street in Aunt Hack. Arriving at the home you are greeted with gorgeous curb appeal featuring manicured landscaping with the home sitting perfectly on the level lot. Upon entry are welcomed into the spacious Foyer with tile flooring, a coat closet and an open flow. The Kitchen offers oak cabinetry with granite countertops and stainless steel appliances. The Eat-in breakfast area has a huge walk-in pantry and French doors to the deck. Step into the Family Room with a cozy floor to ceiling wood burning fireplace. Entertain in your formal Dining & Living Rooms. Off the Kitchen is the Powder Room, Mudroom/ Laundry room with accesses the the 2 car garage and the deck. The Upper Level offers a Primary Bedroom Suite with a large walk-in closet & a sitting room. The Primary Bathroom has two pedestal sinks, a walk in shower, and a soaking tub. Bedroom 2 offers an en-suite with a private bath & two double closets. Two additional spacious bedrooms with closets, a 3rd full bath & an intimate office that can serve as a nursery or a potential walk-in closet. The lower level is currently unfinished but has so much potential for additional living space. Currently it houses the utilities & is set up with a workshop area. The backyard offers a large deck, a hot tub, gazebo and a newly built shed. You'll love life on Tiffany Drive, and will appreciate being minutes from I684, I84, shopping and great restaurants.",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 759900,
+    "listingAgent": {
+      "id": "19132",
+      "name": "Cory Neumann",
+      "email": "cneumann@houlihanlawrence.com",
+      "phone": "203-947-5803"
+    },
+    "listingDate": 1712793600,
+    "listingOffice": {
+      "id": "B1701",
+      "name": "Houlihan Lawrence"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 43124,
+      "acres": 0.99
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1718668800,
+    "salePrice": 752500,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "11872",
+      "name": "Lorraine Amaral",
+      "email": "lamaral@wpsir.com",
+      "phone": "203-702-3917"
+    },
+    "sellingOffice": {
+      "id": "PSOTH120",
+      "name": "William Pitt Sotheby's Int'l"
+    },
+    "size": 3244,
+    "status": "Closed",
+    "style": "{Colonial}",
+    "yearBuilt": 1984,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24009380/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 947-5803",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Shed,Gazebo,Deck,Gutters,Hot Tub}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Water}",
+    "lotFeatures": "{In Subdivision,Level Lot,Professionally Landscaped}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1712793600,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1718668800,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24008893",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24008893",
+    "address": {
+      "deliveryLine": "33 Cannonball Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06810",
+      "street": "33 Cannonball Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.363538,
+      "longitude": -73.494148
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 83,
+    "daysOnMarket": 26,
+    "description": "This exquisite home offers an unparalleled combination of luxury, comfort, and tranquility. Situated on a serene cul-de-sac, it welcomes you with abundant natural light pouring in through expansive windows, creating an inviting ambiance throughout its 4,400+ square feet of living space. The heart of the home, the gourmet eat-in kitchen, is a haven for culinary enthusiasts, boasting custom-built cabinetry, a spacious island, and top-of-the-line appliances. It's not just a functional space but also a gathering point for socializing and entertaining, seamlessly connecting with the dining room, which features a striking tray ceiling and an elegant foyer. The family room, adorned with a cozy fireplace and French doors leading to a deck overlooking the park-like yard, is perfect for unwinding or hosting guests. The primary suite epitomizes luxury, with its oversized bedroom, large walk-in closet, and a newly remodeled bathroom that exudes modern spa ambiance. Upstairs, there are three additional bright bedrooms offering ample space for family or guests. The walk-out lower level is a haven for entertainment, flooded with natural light and featuring beautiful French doors that open to a stone patio and private backyard. Whether it's a home theater, play/game area, or a bar for entertaining, this versatile space has it all, along with ample storage.",
+    "imageCount": 30,
+    "lastUpdated": 1739876484,
+    "listPrice": 815000,
+    "listingAgent": {
+      "id": "844448",
+      "name": "Nicole Copans",
+      "email": "ncopans@gmail.com",
+      "phone": "917-755-5125"
+    },
+    "listingDate": 1712534400,
+    "listingOffice": {
+      "id": "PREST1",
+      "name": "Corcoran Centric Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 74052,
+      "acres": 1.7
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1719792000,
+    "salePrice": 800000,
+    "schools": {
+      "elementary": "Mill Ridge",
+      "middle": "Per Board of Ed",
+      "high": "Per Board of Ed"
+    },
+    "sellingAgent": {
+      "id": "B1750",
+      "name": "Jacob Williams",
+      "email": "jacobwilliams2040@gmail.com",
+      "phone": "203-994-0056"
+    },
+    "sellingOffice": {
+      "id": "B5430",
+      "name": "Williams Real Estate"
+    },
+    "size": 4448,
+    "status": "Closed",
+    "style": "{Colonial}",
+    "yearBuilt": 2014,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24008893/photo_1.jpg"
+    ],
+    "attributionContact": "(917) 755-5125",
+    "additionalListingDesc": "This meticulously crafted home caters to every aspect of luxury living, including plans for a pool site and a greenhouse already equipped with a watering system. With a 2-car attached garage and more, it provides all the amenities for a comfortable lifestyle. Ideally located near the lake, park, shopping mall, and train station, this home offers convenience without sacrificing tranquility. It's a rare opportunity to experience the epitome of luxury living in a highly desirable location.",
+    "cooling": "{Central Air,Zoned}",
+    "exteriorFeatures": "{Underground Utilities,Sidewalk,Deck,Garden Area,French Doors,Patio}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air,Zoned}",
+    "interiorFeatures": "{Audio System,Auto Garage Door Opener,Cable - Pre-wired,Open Floor Plan}",
+    "lotFeatures": "{Lightly Wooded,On Cul-De-Sac}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1712620800,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1719878400,
+    "waterfrontYN": false
+  },
+  {
+    "id": "170571161",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "170571161",
+    "address": {
+      "deliveryLine": "3 Josh Lane",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "3 Josh Lane"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coListingAgent": {
+      "id": "7896",
+      "name": "Kelley Colino",
+      "email": "kelley.colino@raveis.com",
+      "phone": "845-235-7942"
+    },
+    "coListingOffice": {
+      "id": "RAVE120",
+      "name": "William Raveis Real Estate"
+    },
+    "coordinates": {
+      "latitude": 41.442196,
+      "longitude": -73.510788
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 106,
+    "daysOnMarket": 109,
+    "description": "Exquisite 4 bedroom, 3.5 bath Colonial in prime Westside neighborhood! High-end features throughout, including a grand two-story foyer, 9 foot ceilings on the main level, pristine hardwood flooring and custom moldings. The main level features formal living and dining rooms, home office/study, powder room, plus a gourmet eat-in kitchen with center island, granite counters, stainless appliances, butler's pantry, pantry closets and breakfast nook. This level also features a spacious Family Room with wood stove, laundry room and access to the three car garage of your dreams, with tiled floor, elevated ceiling, extra tall garage doors, room for a car lift and all your toys. The upstairs offers four spacious bedrooms and three full bathrooms, including a substantial finished room over the garage and an elegant primary suite with dual walk-in closets and luxurious bathroom with jetted tub and double vanities. The huge walk-out lower level has high ceilings with loads of storage space and is ready to be finished. A charming bluestone patio overlooks the private back yard and bordering woods and is a perfect space for relaxing or entertaining. This home feels like new construction with over $100,000 in recent improvements, including low maintenance Azek trim, new driveway and stonework, new wood/coal stove and flue and complete interior painting. Tucked back on a quiet cul-de-sac and less than 5 minutes to Richter Park golf course, shopping, restaurants and the NY border.",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 899000,
+    "listingAgent": {
+      "id": "4598",
+      "name": "Svetlana Mastrogiannis",
+      "email": "svetlana.m@raveis.com",
+      "phone": "203-482-4284"
+    },
+    "listingDate": 1684886400,
+    "listingOffice": {
+      "id": "RAVE120",
+      "name": "William Raveis Real Estate"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 47044,
+      "acres": 1.08
+    },
+    "modifiedDate": 1720569600,
+    "offMarketDate": 1695772800,
+    "salePrice": 875000,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "B9779",
+      "name": "Matt Rose",
+      "email": "matthew.rose@snet.net",
+      "phone": "203-470-9115"
+    },
+    "sellingOffice": {
+      "id": "KELW120",
+      "name": "Keller Williams Realty"
+    },
+    "size": 3716,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "3 Josh Ln",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "3 Josh Ln"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 2002,
+    "images": [
+      "https://listing-images.homejunction.com/smart/170571161/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 482-4284",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Patio,Porch,Shed,Sidewalk,Stone Wall}",
+    "buyerFinancing": "{FHA,VA,CHFA}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air}",
+    "lotFeatures": "{On Cul-De-Sac,In Subdivision,Cleared,Secluded,Level Lot,Rolling}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1684886400,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1695945600,
+    "waterfrontYN": false
+  },
+  {
+    "id": "170608458",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "170608458",
+    "address": {
+      "deliveryLine": "39 Fairmount Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "39 Fairmount Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.400286,
+      "longitude": -73.476856
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 82,
+    "daysOnMarket": 81,
+    "description": "One level living offering 4 bedrooms and 3.5 baths with hardwood floors. Family room off the kitchen with inviting fireplace and skylight. Living room with gleaming hardwood floors and sunny bay window. Formal dining room off kitchen ready for entertaining. Primary bedroom with updated full bath. Lower level perfect for teen suite/in-law set up with full bath. 2 car garage complete this home. Roof, well pump & driveway all 8- 10 yrs old. Many perennial flowers bloom all summer long. Great location to I84 & shopping. Motivated seller!",
+    "imageCount": 20,
+    "lastUpdated": 1739876484,
+    "listPrice": 499900,
+    "listingAgent": {
+      "id": "B3029",
+      "name": "Anne Massoud",
+      "email": "anne.massoud@raveis.com",
+      "phone": "203-241-7526"
+    },
+    "listingDate": 1698969600,
+    "listingOffice": {
+      "id": "RAVE120",
+      "name": "William Raveis Real Estate"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 24829,
+      "acres": 0.57
+    },
+    "modifiedDate": 1706572800,
+    "offMarketDate": 1706227200,
+    "salePrice": 485000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "APINTO",
+      "name": "Rick Pinto",
+      "email": "pintorealestategroup@gmail.com",
+      "phone": "203-470-0142"
+    },
+    "sellingOffice": {
+      "id": "4716",
+      "name": "Pinto Real Estate Group LLC"
+    },
+    "size": 2831,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "39 Fairmount Dr",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "39 Fairmount Dr"
+    },
+    "style": "{Ranch}",
+    "yearBuilt": 1970,
+    "images": [
+      "https://listing-images.homejunction.com/smart/170608458/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 241-7526",
+    "cooling": "{Central Air,Heat Pump}",
+    "buyerFinancing": "{FHA,VA,CHFA}",
+    "garageFeatures": "{Under House Garage}",
+    "heating": "{Baseboard}",
+    "lotFeatures": "{Lightly Wooded}",
+    "parkingFeatures": "{Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1699056000,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1706572800,
+    "waterfrontYN": false
+  },
+  {
+    "id": "170614813",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "170614813",
+    "address": {
+      "deliveryLine": "10 Fox Den Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "10 Fox Den Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.427916,
+      "longitude": -73.514928
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 137,
+    "daysOnMarket": 90,
+    "description": "Wonderful opportunity to own this unique open floor plan ranch in the highly desirable King Street neighborhood. This home has the perfect layout for entertaining family or friends and hosting holidays: The main level flows seamlessly from the living room with its gas fireplace to the eat in kitchen, through to the dining room and two steps down into the very spacious bright family room with built-in bookshelves and high ceiling. This main level living offers a large primary bedroom with two walk-in closets and a sizeable full bath. There is an additional en suite bedroom, as well as two other bedrooms that share a hall bathroom. Enter through the garage into an ample mudroom that also houses a walk-in storage/pantry. Over the garage is the expansive bonus room-currently being used as a game room, this area also has a smaller room that makes a great private office space with a half bath and, for convenience it has its own entrance/exit. Through the sliding doors off the sitting area on the main level is a beautiful professionally installed gazebo to shade you on those sunny days and keep you dry on rainy/snowy days while you sit outside and enjoy the privacy of the very level, quiet back yard. Set in a neighborhood of equally fabulous homes you are less than 10 minutes to I84 or downtown shopping. A whole house generator is in place for peace of mind.",
+    "imageCount": 31,
+    "lastUpdated": 1739876484,
+    "listPrice": 729000,
+    "listingAgent": {
+      "id": "20916",
+      "name": "Kristen Stolfi",
+      "email": "kristenstolfi@bhhsne.com",
+      "phone": "203-512-1234"
+    },
+    "listingDate": 1702598400,
+    "listingOffice": {
+      "id": "BHHS120",
+      "name": "Berkshire Hathaway NE Prop."
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 36590,
+      "acres": 0.84
+    },
+    "modifiedDate": 1721779200,
+    "offMarketDate": 1714435200,
+    "salePrice": 680000,
+    "schools": {
+      "elementary": "King Street",
+      "high": "Per Board of Ed"
+    },
+    "sellingAgent": {
+      "id": "5799",
+      "name": "Donna Gilbert",
+      "email": "donnagilbert@kw.com",
+      "phone": "203-253-5422"
+    },
+    "sellingOffice": {
+      "id": "KWLY01",
+      "name": "Keller Williams Realty"
+    },
+    "size": 3965,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "10 Fox Den Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "10 Fox Den Rd"
+    },
+    "style": "{Contemporary,Ranch}",
+    "yearBuilt": 1957,
+    "images": [
+      "https://listing-images.homejunction.com/smart/170614813/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 512-1234",
+    "cooling": "{Window Unit}",
+    "exteriorFeatures": "{Gazebo,Patio}",
+    "buyerFinancing": "{FHA,VA,CHFA}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Baseboard}",
+    "interiorFeatures": "{Open Floor Plan}",
+    "lotFeatures": "{Level Lot,Cleared}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "photosChangeTimestamp": 1707609600,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1714435200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "170622561",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "170622561",
+    "address": {
+      "deliveryLine": "2 Joes Hill Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "2 Joes Hill Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.39554,
+      "longitude": -73.516931
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 60,
+    "daysOnMarket": 8,
+    "description": "Stunning renovation of this 4 BR, 3.5 BA colonial set on a parklike private acre. Upon entering the center hall, the statement stone wall & new banister highlight all the new hardwood flooring throughout the home. Entertaining is easy in the completely updated kitchen with beautiful white cabinets & a large center island with quartz countertops, and cooking is a dream with top-of-the-line stainless steel appliances. Enjoy morning coffee or an evening cocktail at the honed granite bar with a separate sink. A large walk-in pantry is expertly hidden behind a beautiful custom barn door. The floor plan for the first floor invites easy living with an open and airy space to gather around the gas fpl, complete with a new tile surround and mantel. Summer can't come soon enough as outdoor living extends onto the new composite deck and leads to a gorgeous stone patio complete with a firepit and fountain. Upstairs, the renovated hall bath serves the 4th bedroom privately. An additional renovated bath separates the 3rd and 4th bedrooms. The primary bedroom is a serene escape, with a large walk-in closet and a full ensuite bathroom with new flooring. The lower level can be finished to serve as a playroom or recreation room, and you can walk out to the outdoor entertaining areas. Additional improvements include a new HVAC heating system, a new AC compressor and air handler, and a new hot water heater. Close to highways, shopping, a golf course, and the perfect down-county commute location!",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 699000,
+    "listingAgent": {
+      "id": "13070",
+      "name": "Caren Harrington",
+      "email": "charrington@wpsir.com",
+      "phone": "203-240-4491"
+    },
+    "listingDate": 1707696000,
+    "listingOffice": {
+      "id": "PSOTH124",
+      "name": "William Pitt Sotheby's Int'l"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 42253,
+      "acres": 0.97
+    },
+    "modifiedDate": 1720569600,
+    "offMarketDate": 1712880000,
+    "salePrice": 725000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "845898",
+      "name": "Christopher Crane",
+      "email": "chris.crane@cbrealty.com",
+      "phone": "203-994-7145"
+    },
+    "sellingOffice": {
+      "id": "CBRB121",
+      "name": "Coldwell Banker Realty"
+    },
+    "size": 3600,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "2 Joes Hill Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "2 Joes Hill Rd"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1999,
+    "images": [
+      "https://listing-images.homejunction.com/smart/170622561/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 240-4491",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Deck,French Doors}",
+    "garageFeatures": "{Attached Garage,Under House Garage,Paved}",
+    "heating": "{Hot Air,Zoned}",
+    "lotFeatures": "{Open Lot,Corner Lot,Level Lot,Fence - Partial}",
+    "parkingFeatures": "{Attached Garage,Under House Garage,Paved}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1707696000,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1713139200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24009420",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24009420",
+    "address": {
+      "deliveryLine": "2 Logans Way",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "2 Logans Way"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.399037,
+      "longitude": -73.485827
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 48,
+    "daysOnMarket": 8,
+    "description": "Welcome to this stunning 4 bedroom, 3 1/2 bath Immaculate Colonial home. From the moment you step inside, you will be greeted by the grand 2 story open foyer adorned with a massive chandelier with a spectacular window allowing tons of natural sun light. The formal living and dining rooms are steps away which lead you into the the appointed eat-in kitchen which hosts stainless steel appliances, double ovens, cook top, large Island, spacious walk-in pantry and a generous area for dining. Sliders leading you to the outdoor deck. The family room features, cathedral ceiling, gas fireplace, ceiling fan,& french doors opening to the screened in porch. The office and laundry room complete the main level. The 2nd stair case will lead you to 4 additional bedrooms. The huge primary bedroom features a tray ceiling with ceiling fan, ensuite bathroom a generous closet, soaking tub, shower, dual sinks,tile floor to enjoy a spa like experience. The 3 remaining spacious bedrooms have California closets. The lower level boasts a full walkout basement with massive storage and 2 living spaces with a full bath. Hardwood flooring throughout the main level and the upper hallway & California Closets throughout. Conveniently located to I84,I684, shopping, banking, post office restaurants and so much more. This home truly has it all. Don't miss out on the opportunity to make this your dream home.",
+    "imageCount": 31,
+    "lastUpdated": 1739876484,
+    "listPrice": 899900,
+    "listingAgent": {
+      "id": "19823",
+      "name": "Caryn Swensen",
+      "email": "CarynS@ctdreamhouse.com",
+      "phone": "203-470-3382"
+    },
+    "listingDate": 1713225600,
+    "listingOffice": {
+      "id": "4919",
+      "name": "Dream House Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 40075,
+      "acres": 0.92
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1717459200,
+    "salePrice": 825000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "middle": "Per Board of Ed",
+      "high": "Per Board of Ed"
+    },
+    "sellingAgent": {
+      "id": "TOLNAIMA",
+      "name": "Mary Tolnai",
+      "email": "mary.tolnai@raveis.com",
+      "phone": "203-922-2771"
+    },
+    "sellingOffice": {
+      "id": "RAVE24",
+      "name": "William Raveis Real Estate"
+    },
+    "size": 4976,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "2 Logans Way",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "2 Logans Way"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 2001,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24009420/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 470-3382",
+    "additionalListingDesc": "Hardwood flooring under carpet in Primary Bedroom.",
+    "cooling": "{Ceiling Fans,Central Air,Zoned}",
+    "exteriorFeatures": "{Deck,Gutters,Lighting,Covered Deck,French Doors}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air}",
+    "interiorFeatures": "{Auto Garage Door Opener,Cable - Available,Open Floor Plan}",
+    "lotFeatures": "{Treed,On Cul-De-Sac}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1713571200,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1717459200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24014068",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24014068",
+    "address": {
+      "deliveryLine": "16 Huntington Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "16 Huntington Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.446413,
+      "longitude": -73.484383
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 48,
+    "daysOnMarket": 6,
+    "description": "Incredible opportunity to own this spacious four bedroom, 3.5 bath home in a desirable Danbury neighborhood. Beautiful hardwood floors throughout the main level and gorgeous Brazilian hardwood in the primary bedroom. Enjoy large family and friend gatherings in the welcoming kitchen with center island, granite counters and stainless-steel appliances. French doors open onto the large deck offering beautiful views to enjoy from the outdoors or the 4-season sunroom. Enjoy your coffee in the morning or unwind at the end of the day. On cooler nights relax in the family room around the gas fireplace. The upper-level features four large bedrooms, including a primary suite spacious enough for a sitting area with seasonal water views and a remodeled bath with large walk-in shower and fabulous soaking tub. The lower level has two rooms, a full bath, and sliders to a patio, perfect for a home office, exercise/rec room. A home you want to see!",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 789000,
+    "listingAgent": {
+      "id": "B1953",
+      "name": "Kathy Kornhaas",
+      "email": "kkornhaas@gmail.com",
+      "phone": "203-994-5762"
+    },
+    "listingDate": 1715126400,
+    "listingOffice": {
+      "id": "CBRB120",
+      "name": "Coldwell Banker Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 40075,
+      "acres": 0.92
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1719273600,
+    "salePrice": 783000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "middle": "Per Board of Ed",
+      "high": "Per Board of Ed"
+    },
+    "sellingAgent": {
+      "id": "KENDKI",
+      "name": "Kim Kendall",
+      "email": "kimkendall@kw.com",
+      "phone": "203-948-5226"
+    },
+    "sellingOffice": {
+      "id": "KELW120",
+      "name": "Keller Williams Realty"
+    },
+    "size": 3375,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "16 Huntington Dr",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "16 Huntington Dr"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1989,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24014068/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 994-5762",
+    "additionalListingDesc": "Kitchen chandelier does not stay, will be replaced with another.",
+    "cooling": "{Central Air}",
+    "garageFeatures": "{Under House Garage}",
+    "heating": "{Hot Air}",
+    "interiorFeatures": "{Auto Garage Door Opener,Cable - Pre-wired}",
+    "lotFeatures": "{Treed,Dry,Professionally Landscaped}",
+    "parkingFeatures": "{Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1715126400,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1719360000,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24025066",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24025066",
+    "address": {
+      "deliveryLine": "5 Lower Lake Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "5 Lower Lake Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.417867,
+      "longitude": -73.48306
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 37,
+    "daysOnMarket": 6,
+    "description": "Large well-maintained colonial conveniently located close to Danbury high school on a quiet dead end street. This home features an eat-in-kitchen, living room with fireplace, separate dining room and family room with attached half bathroom. Hardwood floors below carpet throughout the home. The second floor has a primary bedroom with full bath, three additional bedrooms with a full bath in the hallway. This home also features a walk up attic with hallway exhaust fan, forced hot air & central air conditioning. Full alarm system that can be transferred over easily. Lower level has ADDITIONAL 576 sqft of finished space, giving you a total of 3,190 sqft! This area can easily be used as another bedroom or playroom with a full bathroom, additional fireplace inlet and sliders to the back yard patio. Great deck overlooks the large flat backyard. More exterior & interior photos coming soon!",
+    "imageCount": 19,
+    "lastUpdated": 1739876484,
+    "listPrice": 599000,
+    "listingAgent": {
+      "id": "843558",
+      "name": "Michael Turchiano",
+      "email": "mike@mturchiano.com",
+      "phone": "203-313-0827"
+    },
+    "listingDate": 1718150400,
+    "listingOffice": {
+      "id": "RMHE80",
+      "name": "RE/MAX Heritage"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 40075,
+      "acres": 0.92
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1721347200,
+    "salePrice": 605000,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Broadview",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "843981",
+      "name": "Jennifer Sisco",
+      "email": "JenniferSisco@kw.com",
+      "phone": "203-417-5764"
+    },
+    "sellingOffice": {
+      "id": "KWLY01",
+      "name": "Keller Williams Realty"
+    },
+    "size": 3190,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "5 Lower Lake Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "5 Lower Lake Rd"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1970,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24025066/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 313-0827",
+    "cooling": "{Ceiling Fans,Central Air}",
+    "exteriorFeatures": "{Deck,Patio}",
+    "garageFeatures": "{Under House Garage}",
+    "heating": "{Hot Air}",
+    "interiorFeatures": "{Security System}",
+    "lotFeatures": "{Level Lot}",
+    "parkingFeatures": "{Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1718236800,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1721347200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24026513",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24026513",
+    "address": {
+      "deliveryLine": "18 Judith Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "18 Judith Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.422427,
+      "longitude": -73.50655
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 33,
+    "daysOnMarket": 2,
+    "description": "Nothing to do but move right in! Four bedroom, 3 1/2 bath Colonial, on the desirable West side of Danbury. Kitchen has plenty of cabinet & counter space, granite counters, & breakfast bar. Kitchen opens to large living room, with fireplace, bay window, & great entertaining space. There is also a generous formal dining room. The heart of this home is the gorgeous family room. This light filled room has vaulted ceiling, beautiful window features, ceiling fan, beams, & sliders leading out to a newer deck. Also a half bath, & laundry room on this level, & hardwood floors throughout. Upper level consists of 4 generous bedrooms, hardwood floors & ceiling fans. Primary bedroom has newer adjoining bathroom, with walk in shower, granite vanity top, tile & mosaic glass trim. Walk in closet has beautiful wooden built in organizers, & two of the other bedrooms also have walk in closets. Hall bath has been updated with granite counter, double sink, beadboard, & tile tub surround. Finished lower level provides a great deal of living space, a fire place, & full bath. It can serve as an in law set up, as is walk out, with private entrance. This home has been tastefully updated, and meticulously maintained. Updates include central air, roof 2023, water softener 2024, newer well pump, gutter guards, deck 2018, and brand new front steps. The west side location is great for a New York commute, and is convenient to shopping, entertainment, and fine dining. Make it your new home!",
+    "imageCount": 36,
+    "lastUpdated": 1739876484,
+    "listPrice": 675000,
+    "listingAgent": {
+      "id": "11156",
+      "name": "Beverly Discala",
+      "email": "discalab@raveis.com",
+      "phone": "203-241-9380"
+    },
+    "listingDate": 1718755200,
+    "listingOffice": {
+      "id": "RAVE120",
+      "name": "William Raveis Real Estate"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 52272,
+      "acres": 1.2
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1721606400,
+    "salePrice": 662500,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Rogers Park",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "CRUZN",
+      "name": "Natalya Cruz",
+      "email": "Natalya.cruz@cbrealty.com",
+      "phone": "203-300-6470"
+    },
+    "sellingOffice": {
+      "id": "CBRB120",
+      "name": "Coldwell Banker Realty"
+    },
+    "size": 3284,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "18 Judith Dr",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "18 Judith Dr"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1973,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24026513/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 241-9380",
+    "cooling": "{Central Air,Split System}",
+    "exteriorFeatures": "{Deck,Gutters,Lighting,Patio}",
+    "garageFeatures": "{Under House Garage}",
+    "heating": "{Hot Water}",
+    "interiorFeatures": "{Security System}",
+    "lotFeatures": "{Treed,Sloping Lot,Professionally Landscaped}",
+    "parkingFeatures": "{Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1718755200,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1721606400,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24026689",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24026689",
+    "address": {
+      "deliveryLine": "7 Palmer Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "7 Palmer Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.428484,
+      "longitude": -73.428584
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 77,
+    "daysOnMarket": 12,
+    "description": "Wonderful 4 bedroom, 3 and a half bathroom home is situated on a beautiful 0.65 acre of land. One of the standout features of this home is the open kitchen/dining/living space that seamlessly flows together, creating the perfect environment for easy living and entertaining. The spacious living room offers plenty of room for comfortable seating, making it the perfect spot to relax with family and friends. The open kitchen boasts modern appliances and plenty of counter space, making meal preparation a breeze. Upstairs, you will find the primary bedroom with an en-suite bathroom, a walk-in closet, three additional bedrooms, and a shared bathroom. The fully finished basement provides extra space for gathering, watching moves, or enjoying the bar area that features a full bath. The expansive backyard offers endless possibilities for outdoor activities, whether you prefer gardening, playing sports, or simply enjoying the cozy back patio with a stone fire pit, a spot to relax. The large deck provides plenty of space for outdoor furniture and entertaining.",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 790000,
+    "listingAgent": {
+      "id": "840521",
+      "name": "Edmundo DaSilva",
+      "email": "eddie@eddiesrealtor.com",
+      "phone": "475-243-9868"
+    },
+    "listingDate": 1719532800,
+    "listingOffice": {
+      "id": "EXPC01",
+      "name": "eXp Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 28314,
+      "acres": 0.65
+    },
+    "modifiedDate": 1727740800,
+    "offMarketDate": 1726185600,
+    "salePrice": 765000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "high": "Per Board of Ed"
+    },
+    "sellingAgent": {
+      "id": "840521",
+      "name": "Edmundo DaSilva",
+      "email": "eddie@eddiesrealtor.com",
+      "phone": "475-243-9868"
+    },
+    "sellingOffice": {
+      "id": "EXPC01",
+      "name": "eXp Realty"
+    },
+    "size": 3300,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "7 Palmer Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "7 Palmer Rd"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 2003,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24026689/photo_1.jpg"
+    ],
+    "attributionContact": "(475) 243-9868",
+    "additionalListingDesc": "Wonderful 4 bedroom, 3 and a half bathroom home is situated on a beautiful 0.65 acre of land. One of the standout features of this home is the open kitchen/dining/living space that seamlessly flows together, creating the perfect environment for easy living and entertaining. The spacious living room offers plenty of room for comfortable seating, making it the perfect spot to relax with family and friends. The open kitchen boasts modern appliances and plenty of counter space, making meal preparation a breeze. Upstairs, you will find the primary bedroom with an en-suite bathroom, a walk-in closet, three additional bedrooms, and a shared bathroom. The fully finished basement provides extra space for gathering, watching moves, or enjoying the bar area that features a full bath. The expansive backyard offers endless possibilities for outdoor activities, whether you prefer gardening, playing sports, or simply enjoying the cozy back patio with a stone fire pit, a spot to relax. The large deck provides plenty of space for outdoor furniture and entertaining.",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Shed,Awnings,Deck,Patio}",
+    "garageFeatures": "{Attached Garage,Under House Garage}",
+    "heating": "{Hot Air}",
+    "lotFeatures": "{Level Lot,Sloping Lot}",
+    "parkingFeatures": "{Attached Garage,Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1719532800,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1726444800,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24027067",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24027067",
+    "address": {
+      "deliveryLine": "62 Judith Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "62 Judith Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.420761,
+      "longitude": -73.513894
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 100,
+    "daysOnMarket": 63,
+    "description": "Charming 4-bedroom colonial on Danbury's desirable west side, built in 1996 and lovingly maintained by its original owner. This home boasts a spacious layout, a walk-out basement, and an expansive 800+ square foot great room with a full bath and separate entrance above the garage, ideal for conversion into an in-law suite. Situated in a sought-after neighborhood, this property offers both privacy and convenience, perfect for family living and entertaining. Just 2 minutes from Richter Park Golf Course and 5 minutes to I-84, it also offers exclusive membership opportunities to Aunt Hack Pool and Gregory Manor Pool. Don't miss the chance to own this exceptional home in one of Danbury's most coveted areas.",
+    "imageCount": 31,
+    "lastUpdated": 1739876484,
+    "listPrice": 684000,
+    "listingAgent": {
+      "id": "RJOWD",
+      "name": "Rick Jowdy",
+      "email": "rickjowdy@gmail.com",
+      "phone": "203-512-2011"
+    },
+    "listingDate": 1718841600,
+    "listingOffice": {
+      "id": "RJENT",
+      "name": "RJ Real Estate"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 98881,
+      "acres": 2.27
+    },
+    "modifiedDate": 1728864000,
+    "offMarketDate": 1727827200,
+    "salePrice": 676000,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "851375",
+      "name": "Alaina Sciuto",
+      "email": "alaina.sciuto@theagencyre.com",
+      "phone": "203-641-3676"
+    },
+    "sellingOffice": {
+      "id": "TAGEN01",
+      "name": "The Agency"
+    },
+    "size": 3386,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "62 Judith Dr",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "62 Judith Dr"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1996,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24027067/photo_1.jpg"
+    ],
+    "attributionContact": "(203) 512-2011",
+    "cooling": "{Wall Unit}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Water}",
+    "lotFeatures": "{Interior Lot,Lightly Wooded,Sloping Lot}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1719446400,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1728864000,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24045527",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24045527",
+    "address": {
+      "deliveryLine": "46 Deer Hill Avenue",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06810",
+      "street": "46 Deer Hill Avenue"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.383484,
+      "longitude": -73.449528
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 94,
+    "daysOnMarket": 27,
+    "description": "Timeless Elegance meets Modern Comfort in this Circa 1939 Brick Colonial impeccably maintained on 1.07 acres of beautiful perennial gardens and a stunning border of trees. The Formal Foyer entrance features an immediate view of the lush landscape to the rear of the house a pleasing beginning! The front to back Living room with a fireplace as a focus point is an inviting atmosphere for relaxing or social gatherings. The Formal dining room highlights beautiful wood floors and wall paneling. The chic and charming modern kitchen with a gas fireplace, high end appliances, a island for food preparation and casual eating is a cheerful hang out no one wants to leave! The entire room is filled with light from a wall of glass and enjoys access to a private rear terrace. Tucked off the kitchen is a wonderful pantry with laundry. The dramatic front staircase leads to the second floor to two glorious Primary Suites on opposite sides of the house. A quiet rear office overlooks the pretty grounds from the second floor and can double as a guest bedroom. A sweet au pair suite has access to the lower level by a spiral staircase. Located on the lower level a comfortable Den with fireplace. Perfect also to use as a playroom, studio or media room. Additional features of the property include; a hard wired generator, lawn irrigation system, alarm system, a sound system, a two car attached garage - drive in and access the kitchen in bad weather stay dry and comfortable.",
+    "imageCount": 36,
+    "lastUpdated": 1739876484,
+    "listPrice": 985000,
+    "listingAgent": {
+      "id": "CASEKA",
+      "name": "Karen Casey",
+      "email": "kcasey@wpsir.com",
+      "phone": "860-670-2164"
+    },
+    "listingDate": 1725926400,
+    "listingOffice": {
+      "id": "PSOTH42",
+      "name": "William Pitt Sotheby's Int'l"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 46609,
+      "acres": 1.07
+    },
+    "modifiedDate": 1734048000,
+    "offMarketDate": 1734048000,
+    "salePrice": 925000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "SNOPKODE",
+      "name": "Deborah Snopkowski",
+      "email": "dsnopkowski@sbcglobal.net",
+      "phone": "860-488-4800"
+    },
+    "sellingOffice": {
+      "id": "CBRE90",
+      "name": "Coldwell Banker Realty"
+    },
+    "size": 3379,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "46 Deer Hill Ave",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06810",
+      "street": "46 Deer Hill Ave"
+    },
+    "style": "{Colonial}",
+    "yearBuilt": 1939,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24045527/photo_1.jpg"
+    ],
+    "attributionContact": "(860) 670-2164",
+    "additionalListingDesc": "This is a showstopper of a property and never disappoints. It's location on iconic Deer Hill Avenue is among other historic period homes.",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Terrace,Fruit Trees,Garden Area,Underground Sprinkler}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air}",
+    "interiorFeatures": "{Audio System,Auto Garage Door Opener,Cable - Pre-wired}",
+    "lotFeatures": "{Level Lot}",
+    "parkingFeatures": "{Attached Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Beach Rights}",
+    "photosChangeTimestamp": 1726272000,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": false,
+    "statusChangeTimestamp": 1734048000,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24047585",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24047585",
+    "address": {
+      "deliveryLine": "35 Tanglewood Drive",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "35 Tanglewood Drive"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.404631,
+      "longitude": -73.527381
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 83,
+    "daysOnMarket": 35,
+    "description": "This spacious 4-bedroom, 3.5 bathroom contemporary home offers a rare opportunity for a buyer with a vision. With over 3,714 sq ft of living space, the property is a perfect canvas for those looking to create a dream home. Key Features: -Indoor pool: Enjoy year-round swimming with your own private indoor pool. While it currently requires maintenance, it offers endless potential for a personal oasis. -Tennis Court: A full size tennis court on the property is waiting for someone to bring it back to it's former glory. -Spacious Layout: With four generously sized bedrooms, including a master suite, and 3.5 bathrooms, there's ample room for family and guest. -Large Kitchen: Then kitchen is ready for a modern update, making it the heart of the home where you can create culinary masterpieces. -Bright Spaces: Large windows throughout the house bring in plenty of natural light, though they are in need of some updating. -Underground Tank: The property features an underground oil tank, a detail worth noting for future buyers considering maintenance or replacement. This home is perfect for someone looking to invest in a property that needs a bit of TLC. While it requires some updates and maintenance, the potential here is immense. Bring your creativity and restore this house to its full potential!",
+    "imageCount": 33,
+    "lastUpdated": 1739876484,
+    "listPrice": 865000,
+    "listingAgent": {
+      "id": "840478",
+      "name": "Linh Phu",
+      "email": "qutzier6@yahoo.com",
+      "phone": "914-610-6282"
+    },
+    "listingDate": 1726531200,
+    "listingOffice": {
+      "id": "RMTC01",
+      "name": "RE/MAX Town & Country"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 80150,
+      "acres": 1.84
+    },
+    "modifiedDate": 1733875200,
+    "offMarketDate": 1733875200,
+    "salePrice": 792000,
+    "schools": {
+      "elementary": "Mill Ridge",
+      "middle": "Rogers Park",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "15218",
+      "name": "Catherine Mollenthiel",
+      "email": "team@ctdreamhouse.com",
+      "phone": "203-240-6925"
+    },
+    "sellingOffice": {
+      "id": "4919",
+      "name": "Dream House Realty"
+    },
+    "size": 3714,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "35 Tanglewood Dr",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "35 Tanglewood Dr"
+    },
+    "style": "{Contemporary}",
+    "yearBuilt": 1985,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24047585/photo_1.jpg"
+    ],
+    "attributionContact": "(914) 610-6282",
+    "cooling": "{Central Air}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air}",
+    "lotFeatures": "{Level Lot,Sloping Lot}",
+    "parkingFeatures": "{Attached Garage}",
+    "pool": "{Concrete,Indoor Pool}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1726704000,
+    "poolYN": true,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1733875200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24049331",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24049331",
+    "address": {
+      "deliveryLine": "12 Lower Lake Road",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "12 Lower Lake Road"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.417717,
+      "longitude": -73.481319
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 66,
+    "daysOnMarket": 8,
+    "description": "This exceptional Ranch-style residence, situated in the coveted King St. cul-de-sac neighborhood, boasts a stunning open floor plan and impeccable turnkey condition. The two-level layout provides ample space for extended families, with seamless transitions between living areas. The interior is bathed in natural light, featuring beautiful cabinetry, stainless steel appliances, and elegant dining. Four spacious bedrooms on the main level showcase gleaming hardwood floors. The expansive lower level has additional living space, ideal for in-law suites, offices, or recreational areas. The private backyard features a patio, playground, shed, and upper deck access, perfect for entertainment. Recent upgrades include new windows, roof, siding, bluestone front patio/entry, kitchen, baths, and driveway and more. This lovely home is an easy commute to train station, I84, shopping, restaurants, lakes, and the NY line. Great House, Great Location!",
+    "imageCount": 40,
+    "lastUpdated": 1739876484,
+    "listPrice": 599999,
+    "listingAgent": {
+      "id": "DOSTILIOPA",
+      "name": "Pamela Dostilio",
+      "email": "pamela.dostilio@cbmoves.com",
+      "phone": "860-585-9381"
+    },
+    "listingDate": 1727740800,
+    "listingOffice": {
+      "id": "CBRB121",
+      "name": "Coldwell Banker Realty"
+    },
+    "listingType": "Residential",
+    "lotSize": {
+      "sqft": 46173,
+      "acres": 1.06
+    },
+    "modifiedDate": 1733443200,
+    "offMarketDate": 1733443200,
+    "salePrice": 635000,
+    "schools": {
+      "elementary": "King Street",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "N4332HC",
+      "name": "Helen Cusa",
+      "email": "hcusa@bhsusa.com",
+      "phone": "203-451-7731"
+    },
+    "sellingOffice": {
+      "id": "BROWN01",
+      "name": "Brown Harris Stevens"
+    },
+    "size": 2896,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "12 Lower Lake Rd",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "12 Lower Lake Rd"
+    },
+    "style": "{Ranch}",
+    "yearBuilt": 1970,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24049331/photo_1.jpg"
+    ],
+    "attributionContact": "(860) 585-9381",
+    "cooling": "{Central Air,Heat Pump}",
+    "exteriorFeatures": "{Shed,Deck,Gutters,Lighting,Patio}",
+    "garageFeatures": "{Under House Garage}",
+    "heating": "{Heat Pump,Zoned}",
+    "interiorFeatures": "{Auto Garage Door Opener,Cable - Available,Open Floor Plan}",
+    "lotFeatures": "{Lightly Wooded,Level Lot,Sloping Lot,On Cul-De-Sac,Professionally Landscaped}",
+    "parkingFeatures": "{Under House Garage}",
+    "roof": "{Asphalt Shingle}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1727740800,
+    "poolYN": false,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1733443200,
+    "waterfrontYN": false
+  },
+  {
+    "id": "24053371",
+    "market": "smart",
+    "geoType": "listing",
+    "systemId": "24053371",
+    "address": {
+      "deliveryLine": "1 Blackstone Court Unit 1",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "1 Blackstone Court Unit 1"
+    },
+    "baths": {
+      "total": 4,
+      "full": 3,
+      "half": 1
+    },
+    "beds": 4,
+    "coordinates": {
+      "latitude": 41.41047,
+      "longitude": -73.461953
+    },
+    "county": "Fairfield",
+    "daysOnHJI": 60,
+    "daysOnMarket": 37,
+    "description": "Welcome to 1 Blackstone CT, a beautifully maintained center hall colonial that combines elegance and comfort. As you step inside, you're greeted by a spacious foyer that seamlessly connects to the main living areas. Abundant transom windows fill the rooms with natural light, creating a bright and inviting atmosphere. The gourmet kitchen is a chef's dream, featuring high-end Bosch stainless steel appliances, granite countertops, and a generous eat-in area. The large center island provides additional seating, making it perfect for casual meals. Adjacent to the kitchen, the formal dining room is ideal for hosting large gatherings with family and friends. The expansive family room, complete with a cozy gas fireplace, serves as the heart of the home, providing a warm space for creating cherished memories. Upstairs, the sophisticated primary suite boasts a tray ceiling that enhances the elegance of this spacious bedroom. The fabulous walk-in closet has plenty of storage, while the newly renovated primary bathroom features a luxurious soaking tub, a large glass shower, and a double vanity-perfect for unwinding after a long day. Three additional large bedrooms benefit from ample natural light. The home features hardwood floors, oversized windows, and central air. Smart home technology allows for easy control of lights, music, and more. Step outside to the private Trex deck, conveniently located off the family room and kitchen, making outdoor entertaining a breeze.",
+    "imageCount": 35,
+    "lastUpdated": 1739876484,
+    "listPrice": 750000,
+    "listingAgent": {
+      "id": "19398",
+      "name": "Regan Andrews",
+      "email": "reganandrews@outlook.com",
+      "phone": "914-255-8078"
+    },
+    "listingDate": 1729209600,
+    "listingOffice": {
+      "id": "4042",
+      "name": "Houlihan Lawrence"
+    },
+    "listingType": "Residential",
+    "modifiedDate": 1734393600,
+    "offMarketDate": 1734393600,
+    "propertyType": "Condominium",
+    "salePrice": 720000,
+    "schools": {
+      "elementary": "Per Board of Ed",
+      "middle": "Per Board of Ed",
+      "high": "Danbury"
+    },
+    "sellingAgent": {
+      "id": "848299",
+      "name": "Tommy Connors",
+      "email": "Tommy.connors@redfin.com",
+      "phone": "978-809-0965"
+    },
+    "sellingOffice": {
+      "id": "RDFN01",
+      "name": "Redfin Corporation"
+    },
+    "size": 3672,
+    "status": "Closed",
+    "stdAddress": {
+      "deliveryLine": "1 Blackstone Ct Unit 1",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "street": "1 Blackstone Ct Unit 1"
+    },
+    "style": "{Single Family Detached}",
+    "yearBuilt": 2008,
+    "images": [
+      "https://listing-images.homejunction.com/smart/24053371/photo_1.jpg"
+    ],
+    "attributionContact": "(914) 255-8078",
+    "additionalListingDesc": "The deck overlooks an inground heated pool, a level backyard, and a cozy fire pit area. As a plus, this stunning home is part of a condominium complex with an HOA that takes care of lawn maintenance even in the pool area. Don't miss out on this exceptional opportunity-schedule your appointment today!",
+    "cooling": "{Central Air}",
+    "exteriorFeatures": "{Sidewalk,Shed,Deck,Gutters,Lighting,Patio}",
+    "garageFeatures": "{Attached Garage}",
+    "heating": "{Hot Air}",
+    "associationFee": 442,
+    "interiorFeatures": "{Cable - Available,Open Floor Plan}",
+    "lotFeatures": "{Secluded,Level Lot,On Cul-De-Sac}",
+    "parkingFeatures": "{Attached Garage}",
+    "petsAllowed": "Max 2 dogs/cats. Rules &",
+    "pool": "{Heated,Vinyl,In Ground Pool}",
+    "waterfrontFeatures": "{Not Applicable}",
+    "photosChangeTimestamp": 1729209600,
+    "poolYN": true,
+    "internetAutomatedValuationDisplayYN": true,
+    "statusChangeTimestamp": 1734393600,
+    "waterfrontYN": false
+  }
+]
